@@ -1,0 +1,6 @@
+{
+  "name": "個人作品分享與藝文沙龍空間",
+  "description": "一個具備文青美感設計、留言點讚交互、詳盡數據統計儀表板及雙重權限管理後台的個人作品集與分享平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
